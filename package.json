@@ -1,0 +1,13 @@
+{
+  "name": "psy-mk",
+  "version": "1.0.0",
+  "description": "Psychology masterclass landing page",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Static HTML - no build required'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
